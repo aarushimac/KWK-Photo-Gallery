@@ -1,0 +1,26 @@
+.gallery{ text-align: center;
+}
+
+
+.grid{
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 20%;
+}
+
+.heading-main{
+  text-align: center;
+  font-family: 'Satisfy', cursive;
+;
+  margin-top:30px;
+  color: white;
+
+}
+
+body{
+  background-color: #c18f86;
+}
+
+
+
+}
